@@ -14,9 +14,9 @@
 
 **Thrid, the way to call the program**
 
-- python homework.py "yourlink", for example: *$python homework.py "https://en.wikipedia.org/wiki/Bidhya_Devi_Bhandari"*
+- python homework.py "yourlink", for example: *python homework.py "https://en.wikipedia.org/wiki/Bidhya_Devi_Bhandari"*
 
-- It will save the results in 'output.csv' in your local directory. If you want to specify a name for the output, just add the name after the links. For example: *$python homework.py "https://en.wikipedia.org/wiki/Bidhya_Devi_Bhandari||https://en.wikipedia.org/wiki/Anne_Hathaway_(Shakespeare%27s_wife)" output2.csv*
+- It will save the results in 'output.csv' in your local directory. If you want to specify a name for the output, just add the name after the links. For example: *python homework.py "https://en.wikipedia.org/wiki/Bidhya_Devi_Bhandari||https://en.wikipedia.org/wiki/Anne_Hathaway_(Shakespeare%27s_wife)" output2.csv*
 
 Please note that, multiple links must be ‘||’ separated, and don't forget the quote before and after links.
 
