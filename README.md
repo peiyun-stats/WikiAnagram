@@ -1,13 +1,12 @@
 # WikiAnagram
 
-1. Please make sure you have python and the following packages installed.
-- urllib
-- urllib2
-- json
-- re
-- pyenchant
-- csv (come in default I think)
-- sys (come in default I think)
+PLEASE 
+-urllib-urllib2
+-json
+-re
+-pyenchant
+-csv (come in default I think)
+-sys (come in default I think)
 
 2. In the command line, please change directory (the cd command) to the folder where you put ‘homework.py’ on your local drive.
 
